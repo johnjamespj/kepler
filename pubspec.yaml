@@ -30,6 +30,7 @@ dependencies:
   flare_flutter: ^2.0.6
   flutter_native_splash: ^0.1.9
   k_means_cluster: ^0.2.2
+  intro_slider: ^2.3.3
 
 flutter_icons:
   ios: true
